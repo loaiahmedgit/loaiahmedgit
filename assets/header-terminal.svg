@@ -15,9 +15,6 @@
     <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
       <path d="M0 3.5H4" stroke="#FFFFFF" stroke-width="0.5" opacity="0.03"/>
     </pattern>
-    <pattern id="ghost-track" width="32" height="10" patternUnits="userSpaceOnUse">
-      <rect x="0" y="4" width="5" height="2" rx="1" fill="#FF6A00" opacity="0.48"/>
-    </pattern>
     <filter id="name-glow" x="-10%" y="-30%" width="120%" height="160%">
       <feGaussianBlur stdDeviation="2.2" result="blur"/>
       <feMerge>
@@ -41,11 +38,9 @@
 
     <text x="28" y="158" fill="#FF6A00" font-size="14" letter-spacing="1">============================================================================================================</text>
 
-    <rect x="28" y="207" width="1144" height="10" fill="url(#ghost-track)"/>
-
-    <g shape-rendering="crispEdges" transform="translate(34 171)">
-      <animateTransform attributeName="transform" type="translate" values="34 171;1100 171;34 171" dur="4.2s" repeatCount="indefinite"/>
-      <g transform="scale(0.5)">
+    <g shape-rendering="crispEdges" transform="translate(34 184)">
+      <animateTransform attributeName="transform" type="translate" values="-132 184;1200 184" dur="3.8s" repeatCount="indefinite"/>
+      <g transform="scale(1)">
         <g fill="#FFB750">
           <rect x="48" y="8" width="32" height="8"/>
           <rect x="32" y="16" width="64" height="8"/>
@@ -89,17 +84,6 @@
         </g>
       </g>
     </g>
-
-    <text x="28" y="252" fill="#FF6A00" font-size="14" letter-spacing="1">============================================================================================================</text>
-
-    <text x="28" y="280" fill="#FF8A3D" font-size="14" font-weight="700">interest --list</text>
-    <text x="205" y="280" fill="#F2B180" font-size="14">AI  |  data engineering  |  product systems  |  machine learning</text>
-
-    <text x="28" y="307" fill="#FF8A3D" font-size="14" font-weight="700">projects --active</text>
-    <text x="205" y="307" fill="#D8D8D8" font-size="14">NASQ  |  Maseera</text>
-
-    <text x="28" y="334" fill="#FF8A3D" font-size="14" font-weight="700">stack --core</text>
-    <text x="205" y="334" fill="#D8D8D8" font-size="14">Python  |  SQL  |  TypeScript  |  Flutter</text>
 
     <text x="28" y="360" fill="#FF6A00" font-size="14" letter-spacing="1">============================================================================================================</text>
 
