@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=220&section=header&text=Loai%20Abouelezz&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%7C%20AI%20%26%20Data%20%7C%20Product%20Engineering&descAlignY=57&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:6D28D9,100:312E81&height=220&section=header&text=Loai%20Abouelezz&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%7C%20AI%20and%20Data%20%7C%20Product%20Engineering&descAlignY=57&descSize=18&cache=2)
 
 <div align="center">
 
