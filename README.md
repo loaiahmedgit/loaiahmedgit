@@ -220,7 +220,7 @@ Building mobile, web, AI, and data products from concept through validated imple
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/gh-pages/github-contribution-grid-snake-dark.svg)
 
 <br>
 
