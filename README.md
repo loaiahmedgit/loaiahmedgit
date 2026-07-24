@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/header-minimal.svg)
+![Header](https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/header-command-center.svg)
 
 <div align="center">
 
@@ -241,8 +241,4 @@ open_to:
 
 ---
 
-<div align="center">
-
-*"Build systems that are useful, measurable, and worthy of trust."*
-
-</div>
+![Footer](https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/footer-command-center.svg)
