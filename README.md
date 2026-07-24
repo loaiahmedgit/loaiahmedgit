@@ -187,20 +187,12 @@ Building mobile, web, AI, and data products from concept through validated imple
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=loaiahmedgit&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" alt="Loai's GitHub statistics">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loaiahmedgit&theme=tokyonight" alt="Loai's GitHub profile summary">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=loaiahmedgit&theme=tokyonight" alt="Loai's GitHub statistics">
 <img width="49%" src="https://streak-stats.demolab.com?user=loaiahmedgit&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD" alt="Loai's GitHub contribution streak">
 
-<img width="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loaiahmedgit&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD" alt="Loai's most used public repository languages">
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=loaiahmedgit&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img width="54%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loaiahmedgit&theme=tokyonight" alt="Languages across Loai's public repositories">
 
 </div>
 
