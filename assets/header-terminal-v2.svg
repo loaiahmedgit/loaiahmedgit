@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
+  <title id="title">Loai Abouelezz terminal profile header</title>
+  <desc id="desc">Borderless black terminal with sharp orange name lettering, an animated orange pixel ghost, engineering interests, and a hello world command.</desc>
+
+  <defs>
+    <linearGradient id="terminal-bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="1" stop-color="#0A0A0A"/>
+    </linearGradient>
+    <linearGradient id="orange-fill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF4D00"/>
+      <stop offset="0.5" stop-color="#FF6A00"/>
+      <stop offset="1" stop-color="#FF9A52"/>
+    </linearGradient>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3.5H4" stroke="#FFFFFF" stroke-width="0.5" opacity="0.03"/>
+    </pattern>
+    <filter id="name-glow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="430" fill="url(#terminal-bg)"/>
+  <rect width="1200" height="430" fill="url(#scanlines)"/>
+
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace">
+    <text x="28" y="25" fill="#FF6A00" font-size="14" letter-spacing="1">============================================================================================================</text>
+    <text x="28" y="55" fill="#D8D8D8" font-size="15">Welcome to my virtual environment</text>
+
+    <g font-family="'Arial Black', Impact, 'Segoe UI Black', sans-serif" font-size="72" font-weight="900" letter-spacing="1.6">
+      <text x="33" y="137" fill="#451500">LOAI ABOUELEZZ</text>
+      <text x="28" y="130" fill="url(#orange-fill)" stroke="#FF9A52" stroke-width="0.8" filter="url(#name-glow)">LOAI ABOUELEZZ</text>
+    </g>
+
+    <text x="28" y="158" fill="#FF6A00" font-size="14" letter-spacing="1">============================================================================================================</text>
+
+    <g shape-rendering="crispEdges" transform="translate(34 184)">
+      <animateTransform attributeName="transform" type="translate" values="-132 184;1200 184" dur="3.8s" repeatCount="indefinite"/>
+      <g transform="scale(1)">
+        <g fill="#FFB750">
+          <rect x="48" y="8" width="32" height="8"/>
+          <rect x="32" y="16" width="64" height="8"/>
+          <rect x="24" y="24" width="80" height="8"/>
+          <rect x="16" y="32" width="96" height="24"/>
+          <rect x="8" y="56" width="112" height="48"/>
+        </g>
+        <g fill="#DEDEFF">
+          <rect x="40" y="32" width="16" height="8"/>
+          <rect x="88" y="32" width="16" height="8"/>
+          <rect x="32" y="40" width="32" height="8"/>
+          <rect x="80" y="40" width="32" height="8"/>
+          <rect x="32" y="48" width="16" height="16"/>
+          <rect x="80" y="48" width="16" height="16"/>
+          <rect x="40" y="64" width="16" height="8"/>
+          <rect x="88" y="64" width="16" height="8"/>
+        </g>
+        <g fill="#2121FE">
+          <rect x="48" y="48" width="16" height="16"/>
+          <rect x="96" y="48" width="16" height="16"/>
+        </g>
+        <g fill="#FFB750">
+          <animate attributeName="opacity" values="1;0;1" dur="0.26s" repeatCount="indefinite"/>
+          <rect x="8" y="104" width="16" height="8"/>
+          <rect x="32" y="104" width="24" height="8"/>
+          <rect x="72" y="104" width="24" height="8"/>
+          <rect x="104" y="104" width="16" height="8"/>
+          <rect x="8" y="112" width="8" height="8"/>
+          <rect x="40" y="112" width="16" height="8"/>
+          <rect x="72" y="112" width="16" height="8"/>
+          <rect x="112" y="112" width="8" height="8"/>
+        </g>
+        <g fill="#FFB750" opacity="0">
+          <animate attributeName="opacity" values="0;1;0" dur="0.26s" repeatCount="indefinite"/>
+          <rect x="8" y="104" width="32" height="8"/>
+          <rect x="48" y="104" width="32" height="8"/>
+          <rect x="88" y="104" width="32" height="8"/>
+          <rect x="16" y="112" width="16" height="8"/>
+          <rect x="56" y="112" width="16" height="8"/>
+          <rect x="96" y="112" width="16" height="8"/>
+        </g>
+      </g>
+    </g>
+
+    <text x="28" y="360" fill="#FF6A00" font-size="14" letter-spacing="1">============================================================================================================</text>
+
+    <text x="28" y="389" fill="#FF6A00" font-size="15" font-weight="700">loai@github</text>
+    <text x="131" y="389" fill="#BDBDBD" font-size="15">:</text>
+    <text x="141" y="389" fill="#FF8A3D" font-size="15" font-weight="700">~$</text>
+    <text x="172" y="389" fill="#D8D8D8" font-size="15">echo "hello, world"</text>
+
+    <text x="28" y="414" fill="#F2B180" font-size="14">hello, world</text>
+    <rect x="125" y="401" width="9" height="16" fill="#FF6A00">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
