@@ -35,6 +35,10 @@ I approach engineering as a complete product discipline: understand the user pro
 - Product-focused engineering and applied AI opportunities
 - Collaboration on useful, technically ambitious projects
 
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/pacman-cherry-divider.svg" alt="Fast Pac-Man cherry chase">
+</div>
+
 ---
 
 ## Tech Stack
@@ -121,6 +125,10 @@ Maseera is a full-stack social platform built to exercise real application archi
 
 </details>
 
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/pacman-cherry-divider.svg" alt="Fast Pac-Man cherry chase">
+</div>
+
 ---
 
 ## Experience
@@ -170,6 +178,10 @@ Building mobile, web, AI, and data products from concept through validated imple
 
 [![Agentic AI Conference](https://img.shields.io/badge/Data_Science_Dojo-Agentic_AI_Conference_2026-FF6A00?style=for-the-badge&logo=databricks&logoColor=white)](https://datasciencedojo.com/)
 
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/pacman-cherry-divider.svg" alt="Fast Pac-Man cherry chase">
+</div>
+
 ---
 
 ## Coding Profiles
@@ -199,12 +211,6 @@ Building mobile, web, AI, and data products from concept through validated imple
 
 ![Contribution Snake](https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/gh-pages/github-contribution-grid-snake-orange.svg)
 
-<br>
-
-<a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Animated Pac-Man divider">
-</a>
-
 </div>
 
 ---
@@ -231,6 +237,10 @@ open_to:
   - AI engineering internships in Doha
   - software engineering internships in Doha
 ```
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/pacman-cherry-divider.svg" alt="Fast Pac-Man cherry chase">
+</div>
 
 ---
 
