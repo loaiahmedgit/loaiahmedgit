@@ -48,8 +48,6 @@ I approach engineering as a complete product discipline: understand the user pro
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="72" alt="Animated Git logo">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="72" alt="Animated GitHub logo">
 
-<sub><a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">Animated stack highlights</a></sub>
-
 </div>
 
 ### Languages
