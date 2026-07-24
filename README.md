@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/header-terminal.svg)
+![Header](https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/header-terminal-v2.svg)
 
 <div align="center">
 
