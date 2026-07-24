@@ -1,21 +1,21 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:7C2D12,50:EA580C,100:FF6A00&height=220&section=header&text=Loai%20Abouelezz&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%7C%20AI%20and%20Data%20%7C%20Product%20Engineering&descAlignY=57&descSize=18&cache=3)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:E65300,50:FF6A00,100:FF8A00&height=220&section=header&text=Loai%20Abouelezz&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%7C%20AI%20and%20Data%20%7C%20Product%20Engineering&descAlignY=57&descSize=18&cache=4)
 
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=FF8A3D&center=true&vCenter=true&width=800&lines=CS+Student+at+Qatar+University;Building+AI%2C+Data%2C+and+Product+Systems;Python+%7C+SQL+%7C+TypeScript+%7C+Flutter)](https://git.io/typing-svg)
 
-[![Qatar University](https://img.shields.io/badge/Qatar_University-BSc_Computer_Science-C2410C?style=for-the-badge&logo=academia&logoColor=white)](https://www.qu.edu.qa/)
-[![Graduation](https://img.shields.io/badge/Expected_Graduation-Dec_2027-EA580C?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://www.qu.edu.qa/)
-[![Location](https://img.shields.io/badge/Doha-Qatar-F97316?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Doha,+Qatar/)
+[![Qatar University](https://img.shields.io/badge/Qatar_University-BSc_Computer_Science-E65300?style=for-the-badge&logo=academia&logoColor=white)](https://www.qu.edu.qa/)
+[![Graduation](https://img.shields.io/badge/Expected_Graduation-Dec_2027-FF6A00?style=for-the-badge&logo=googlecalendar&logoColor=white)](https://www.qu.edu.qa/)
+[![Location](https://img.shields.io/badge/Doha-Qatar-FF8A3D?style=for-the-badge&logo=googlemaps&logoColor=white)](https://www.google.com/maps/place/Doha,+Qatar/)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Explore_Projects-FF6A00?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/loaiahmedgit?tab=repositories)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-F97316?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loai-abouelezz-a2bb09389/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-FB923C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loaiabouelezz@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-9A3412?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loaiahmedgit)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF7A1A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loai-abouelezz-a2bb09389/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-FF8A3D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loaiabouelezz@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-E65300?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loaiahmedgit)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=loaiahmedgit&label=PROFILE+VIEWS&color=FF6A00&style=flat-square)
-[![Followers](https://img.shields.io/github/followers/loaiahmedgit?label=FOLLOWERS&style=flat-square&color=EA580C&labelColor=111827)](https://github.com/loaiahmedgit?tab=followers)
-[![Stars](https://img.shields.io/github/stars/loaiahmedgit/web-project-repo?label=PROJECT+STARS&style=flat-square&color=F97316&labelColor=111827)](https://github.com/loaiahmedgit/web-project-repo/stargazers)
+[![Followers](https://img.shields.io/github/followers/loaiahmedgit?label=FOLLOWERS&style=flat-square&color=FF6A00&labelColor=111827)](https://github.com/loaiahmedgit?tab=followers)
+[![Stars](https://img.shields.io/github/stars/loaiahmedgit/web-project-repo?label=PROJECT+STARS&style=flat-square&color=FF7A1A&labelColor=111827)](https://github.com/loaiahmedgit/web-project-repo/stargazers)
 
 </div>
 
@@ -136,10 +136,10 @@ Building mobile, web, AI, and data products from concept through validated imple
 - Designing Maseera's seven-model PostgreSQL schema and full-stack social workflows
 - Translating complex product requirements into maintainable, testable engineering systems
 
-![Python](https://img.shields.io/badge/Python-9A3412?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-C2410C?style=flat-square&logo=postgresql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-EA580C?style=flat-square&logo=typescript&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-F97316?style=flat-square&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-E65300?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-F05A00?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF6A00?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-FF7A1A?style=flat-square&logo=flutter&logoColor=white)
 ![Product Engineering](https://img.shields.io/badge/Product_Engineering-FF6A00?style=flat-square&logo=proton&logoColor=white)
 
 ---
@@ -160,11 +160,11 @@ Building mobile, web, AI, and data products from concept through validated imple
 
 ### Microsoft
 
-[![Microsoft Certified: Azure AI Fundamentals](https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Fundamentals-C2410C?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/)
+[![Microsoft Certified: Azure AI Fundamentals](https://img.shields.io/badge/Microsoft_Certified-Azure_AI_Fundamentals-E65300?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://learn.microsoft.com/credentials/certifications/azure-ai-fundamentals/)
 
 ### Google
 
-[![Google Data Analytics Professional Certificate](https://img.shields.io/badge/Google-Data_Analytics_Professional_Certificate-EA580C?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics)
+[![Google Data Analytics Professional Certificate](https://img.shields.io/badge/Google-Data_Analytics_Professional_Certificate-FF6A00?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics)
 
 ### Professional Development
 
@@ -176,8 +176,8 @@ Building mobile, web, AI, and data products from concept through validated imple
 
 <div align="center">
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-Engineering_Profile-9A3412?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loaiahmedgit)
-[![Maseera Repository](https://img.shields.io/badge/Featured_Code-Maseera-F97316?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loaiahmedgit/web-project-repo/tree/main/maseera)
+[![GitHub Profile](https://img.shields.io/badge/GitHub-Engineering_Profile-E65300?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loaiahmedgit)
+[![Maseera Repository](https://img.shields.io/badge/Featured_Code-Maseera-FF7A1A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loaiahmedgit/web-project-repo/tree/main/maseera)
 
 </div>
 
@@ -187,12 +187,12 @@ Building mobile, web, AI, and data products from concept through validated imple
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loaiahmedgit&theme=gruvbox" alt="Loai's GitHub profile summary">
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loaiahmedgit&theme=github_dark" alt="Loai's GitHub profile summary">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=loaiahmedgit&theme=gruvbox" alt="Loai's GitHub statistics">
-<img width="49%" src="https://streak-stats.demolab.com?user=loaiahmedgit&theme=dark&hide_border=true&background=0D1117&ring=FF6A00&fire=FB923C&currStreakLabel=FED7AA" alt="Loai's GitHub contribution streak">
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=loaiahmedgit&theme=github_dark" alt="Loai's GitHub statistics">
+<img width="49%" src="https://streak-stats.demolab.com?user=loaiahmedgit&theme=dark&hide_border=true&background=0D1117&ring=FF6A00&fire=FF8A3D&currStreakLabel=FFD0B0" alt="Loai's GitHub contribution streak">
 
-<img width="54%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loaiahmedgit&theme=gruvbox" alt="Languages across Loai's public repositories">
+<img width="54%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loaiahmedgit&theme=github_dark" alt="Languages across Loai's public repositories">
 
 </div>
 
@@ -202,7 +202,7 @@ Building mobile, web, AI, and data products from concept through validated imple
 
 <div align="center">
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=loaiahmedgit&bg_color=0D1117&color=FED7AA&line=FF6A00&point=FB923C&area=true&area_color=EA580C&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=loaiahmedgit&bg_color=0D1117&color=FFD0B0&line=FF6A00&point=FF8A3D&area=true&area_color=FF6A00&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -212,7 +212,7 @@ Building mobile, web, AI, and data products from concept through validated imple
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/gh-pages/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/gh-pages/github-contribution-grid-snake-orange.svg)
 
 <br>
 
@@ -254,9 +254,9 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Gmail-loaiabouelezz%40gmail.com-FF6A00?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loaiabouelezz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Loai_Abouelezz-F97316?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loai-abouelezz-a2bb09389/)
-[![GitHub](https://img.shields.io/badge/GitHub-loaiahmedgit-9A3412?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loaiahmedgit)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Project_Repository-EA580C?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/loaiahmedgit?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Loai_Abouelezz-FF7A1A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loai-abouelezz-a2bb09389/)
+[![GitHub](https://img.shields.io/badge/GitHub-loaiahmedgit-E65300?style=for-the-badge&logo=github&logoColor=white)](https://github.com/loaiahmedgit)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Project_Repository-FF6A00?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/loaiahmedgit?tab=repositories)
 
 </div>
 
@@ -268,4 +268,4 @@ open_to:
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:9A3412,50:EA580C,100:7C2D12&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF8A00,50:FF6A00,100:E65300&height=120&section=footer)
