@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:E65300,50:FF6A00,100:FF8A00&height=220&section=header&text=Loai%20Abouelezz&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%7C%20AI%20and%20Data%20%7C%20Product%20Engineering&descAlignY=57&descSize=18&cache=5)
+![Header](https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/header-minimal.svg)
 
 <div align="center">
 
@@ -246,5 +246,3 @@ open_to:
 *"Build systems that are useful, measurable, and worthy of trust."*
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF8A00,50:FF6A00,100:E65300&height=120&section=footer)
