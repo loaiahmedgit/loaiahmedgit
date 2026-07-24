@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+  <title id="title">Animated orange pixel ghost</title>
+  <desc id="desc">The exact orange pixel ghost character with its original two-frame walking animation.</desc>
+
+  <g fill="#FFB750">
+    <rect x="48" y="8" width="32" height="8"/>
+    <rect x="32" y="16" width="64" height="8"/>
+    <rect x="24" y="24" width="80" height="8"/>
+    <rect x="16" y="32" width="96" height="24"/>
+    <rect x="8" y="56" width="112" height="48"/>
+  </g>
+
+  <g fill="#DEDEFF">
+    <rect x="40" y="32" width="16" height="8"/>
+    <rect x="88" y="32" width="16" height="8"/>
+    <rect x="32" y="40" width="32" height="8"/>
+    <rect x="80" y="40" width="32" height="8"/>
+    <rect x="32" y="48" width="16" height="16"/>
+    <rect x="80" y="48" width="16" height="16"/>
+    <rect x="40" y="64" width="16" height="8"/>
+    <rect x="88" y="64" width="16" height="8"/>
+  </g>
+
+  <g fill="#2121FE">
+    <rect x="48" y="48" width="16" height="16"/>
+    <rect x="96" y="48" width="16" height="16"/>
+  </g>
+
+  <g fill="#FFB750">
+    <animate attributeName="opacity" values="1;0;1" dur="0.26s" repeatCount="indefinite"/>
+    <rect x="8" y="104" width="16" height="8"/>
+    <rect x="32" y="104" width="24" height="8"/>
+    <rect x="72" y="104" width="24" height="8"/>
+    <rect x="104" y="104" width="16" height="8"/>
+    <rect x="8" y="112" width="8" height="8"/>
+    <rect x="40" y="112" width="16" height="8"/>
+    <rect x="72" y="112" width="16" height="8"/>
+    <rect x="112" y="112" width="8" height="8"/>
+  </g>
+
+  <g fill="#FFB750" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" dur="0.26s" repeatCount="indefinite"/>
+    <rect x="8" y="104" width="32" height="8"/>
+    <rect x="48" y="104" width="32" height="8"/>
+    <rect x="88" y="104" width="32" height="8"/>
+    <rect x="16" y="112" width="16" height="8"/>
+    <rect x="56" y="112" width="16" height="8"/>
+    <rect x="96" y="112" width="16" height="8"/>
+  </g>
+</svg>
