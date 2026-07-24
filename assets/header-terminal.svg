@@ -1,77 +1,115 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430" role="img" aria-labelledby="title desc">
   <title id="title">Loai Abouelezz terminal profile header</title>
-  <desc id="desc">Black terminal screen with orange block lettering, engineering interests, active projects, and a hello world command.</desc>
+  <desc id="desc">Borderless black terminal with sharp orange name lettering, an animated orange pixel ghost, engineering interests, and a hello world command.</desc>
 
   <defs>
     <linearGradient id="terminal-bg" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#070707"/>
-      <stop offset="1" stop-color="#0C0C0C"/>
+      <stop offset="0" stop-color="#050505"/>
+      <stop offset="1" stop-color="#0A0A0A"/>
     </linearGradient>
-    <linearGradient id="orange-fill" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#FF8A3D"/>
-      <stop offset="0.38" stop-color="#FF6A00"/>
-      <stop offset="1" stop-color="#E65300"/>
+    <linearGradient id="orange-fill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FF4D00"/>
+      <stop offset="0.5" stop-color="#FF6A00"/>
+      <stop offset="1" stop-color="#FF9A52"/>
     </linearGradient>
     <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
-      <path d="M0 3.5H4" stroke="#FFFFFF" stroke-width="0.5" opacity="0.035"/>
+      <path d="M0 3.5H4" stroke="#FFFFFF" stroke-width="0.5" opacity="0.03"/>
     </pattern>
-    <filter id="soft-glow" x="-20%" y="-40%" width="140%" height="180%">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
+    <pattern id="ghost-track" width="32" height="10" patternUnits="userSpaceOnUse">
+      <rect x="0" y="4" width="5" height="2" rx="1" fill="#FF6A00" opacity="0.48"/>
+    </pattern>
+    <filter id="name-glow" x="-10%" y="-30%" width="120%" height="160%">
+      <feGaussianBlur stdDeviation="2.2" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
-    <clipPath id="screen">
-      <rect x="1" y="1" width="1198" height="408" rx="10"/>
-    </clipPath>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="408" rx="10" fill="url(#terminal-bg)" stroke="#2A2A2A" stroke-width="2"/>
+  <rect width="1200" height="430" fill="url(#terminal-bg)"/>
+  <rect width="1200" height="430" fill="url(#scanlines)"/>
 
-  <g clip-path="url(#screen)">
-    <rect x="0" y="0" width="1200" height="410" fill="url(#scanlines)"/>
-    <rect x="0" y="-90" width="1200" height="90" fill="#FF6A00" opacity="0.022">
-      <animate attributeName="y" values="-90;410" dur="5.5s" repeatCount="indefinite"/>
-    </rect>
-  </g>
+  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', monospace">
+    <text x="28" y="25" fill="#FF6A00" font-size="14" letter-spacing="1">============================================================================================================</text>
+    <text x="28" y="55" fill="#D8D8D8" font-size="15">Welcome to my virtual environment</text>
 
-  <g font-family="'SFMono-Regular', Consolas, 'Liberation Mono', 'Courier New', monospace">
-    <text x="28" y="26" fill="#FF6A00" font-size="14" letter-spacing="1">============================================================================================================</text>
-    <text x="28" y="57" fill="#D8D8D8" font-size="15">Welcome to the Loai Development Environment @ GitHub</text>
-
-    <g font-family="'Courier New', 'Liberation Mono', monospace" font-weight="900" font-size="76" letter-spacing="-3">
-      <text x="37" y="146" fill="none" stroke="#7A2700" stroke-width="3" opacity="0.95">LOAI ABOUELEZZ</text>
-      <text x="33" y="141" fill="none" stroke="#B93D00" stroke-width="3" opacity="0.95">LOAI ABOUELEZZ</text>
-      <text x="28" y="136" fill="url(#orange-fill)" stroke="#FF8A3D" stroke-width="0.7" filter="url(#soft-glow)">LOAI ABOUELEZZ</text>
+    <g font-family="'Arial Black', Impact, 'Segoe UI Black', sans-serif" font-size="72" font-weight="900" letter-spacing="1.6">
+      <text x="33" y="137" fill="#451500">LOAI ABOUELEZZ</text>
+      <text x="28" y="130" fill="url(#orange-fill)" stroke="#FF9A52" stroke-width="0.8" filter="url(#name-glow)">LOAI ABOUELEZZ</text>
     </g>
 
-    <text x="28" y="168" fill="#FF6A00" font-size="14" letter-spacing="1">============================================================================================================</text>
+    <text x="28" y="158" fill="#FF6A00" font-size="14" letter-spacing="1">============================================================================================================</text>
 
-    <text x="28" y="198" fill="#FF8A3D" font-size="15" font-weight="700">whoami</text>
-    <text x="205" y="198" fill="#D8D8D8" font-size="15">Computer Science student @ Qatar University</text>
+    <rect x="28" y="207" width="1144" height="10" fill="url(#ghost-track)"/>
 
-    <text x="28" y="226" fill="#FF8A3D" font-size="15" font-weight="700">interest --list</text>
-    <text x="205" y="226" fill="#F2B180" font-size="15">AI  |  data engineering  |  product systems  |  machine learning</text>
+    <g shape-rendering="crispEdges" transform="translate(34 171)">
+      <animateTransform attributeName="transform" type="translate" values="34 171;1100 171;34 171" dur="4.2s" repeatCount="indefinite"/>
+      <g transform="scale(0.5)">
+        <g fill="#FFB750">
+          <rect x="48" y="8" width="32" height="8"/>
+          <rect x="32" y="16" width="64" height="8"/>
+          <rect x="24" y="24" width="80" height="8"/>
+          <rect x="16" y="32" width="96" height="24"/>
+          <rect x="8" y="56" width="112" height="48"/>
+        </g>
+        <g fill="#DEDEFF">
+          <rect x="40" y="32" width="16" height="8"/>
+          <rect x="88" y="32" width="16" height="8"/>
+          <rect x="32" y="40" width="32" height="8"/>
+          <rect x="80" y="40" width="32" height="8"/>
+          <rect x="32" y="48" width="16" height="16"/>
+          <rect x="80" y="48" width="16" height="16"/>
+          <rect x="40" y="64" width="16" height="8"/>
+          <rect x="88" y="64" width="16" height="8"/>
+        </g>
+        <g fill="#2121FE">
+          <rect x="48" y="48" width="16" height="16"/>
+          <rect x="96" y="48" width="16" height="16"/>
+        </g>
+        <g fill="#FFB750">
+          <animate attributeName="opacity" values="1;0;1" dur="0.26s" repeatCount="indefinite"/>
+          <rect x="8" y="104" width="16" height="8"/>
+          <rect x="32" y="104" width="24" height="8"/>
+          <rect x="72" y="104" width="24" height="8"/>
+          <rect x="104" y="104" width="16" height="8"/>
+          <rect x="8" y="112" width="8" height="8"/>
+          <rect x="40" y="112" width="16" height="8"/>
+          <rect x="72" y="112" width="16" height="8"/>
+          <rect x="112" y="112" width="8" height="8"/>
+        </g>
+        <g fill="#FFB750" opacity="0">
+          <animate attributeName="opacity" values="0;1;0" dur="0.26s" repeatCount="indefinite"/>
+          <rect x="8" y="104" width="32" height="8"/>
+          <rect x="48" y="104" width="32" height="8"/>
+          <rect x="88" y="104" width="32" height="8"/>
+          <rect x="16" y="112" width="16" height="8"/>
+          <rect x="56" y="112" width="16" height="8"/>
+          <rect x="96" y="112" width="16" height="8"/>
+        </g>
+      </g>
+    </g>
 
-    <text x="28" y="254" fill="#FF8A3D" font-size="15" font-weight="700">projects --active</text>
-    <text x="205" y="254" fill="#D8D8D8" font-size="15">NASQ  |  Maseera</text>
+    <text x="28" y="252" fill="#FF6A00" font-size="14" letter-spacing="1">============================================================================================================</text>
 
-    <text x="28" y="282" fill="#FF8A3D" font-size="15" font-weight="700">stack --core</text>
-    <text x="205" y="282" fill="#D8D8D8" font-size="15">Python  |  SQL  |  TypeScript  |  Flutter</text>
+    <text x="28" y="280" fill="#FF8A3D" font-size="14" font-weight="700">interest --list</text>
+    <text x="205" y="280" fill="#F2B180" font-size="14">AI  |  data engineering  |  product systems  |  machine learning</text>
 
-    <text x="28" y="310" fill="#FF8A3D" font-size="15" font-weight="700">status --career</text>
-    <text x="205" y="310" fill="#F2B180" font-size="15">open to AI, data, and software engineering internships</text>
+    <text x="28" y="307" fill="#FF8A3D" font-size="14" font-weight="700">projects --active</text>
+    <text x="205" y="307" fill="#D8D8D8" font-size="14">NASQ  |  Maseera</text>
 
-    <text x="28" y="340" fill="#FF6A00" font-size="14" letter-spacing="1">============================================================================================================</text>
+    <text x="28" y="334" fill="#FF8A3D" font-size="14" font-weight="700">stack --core</text>
+    <text x="205" y="334" fill="#D8D8D8" font-size="14">Python  |  SQL  |  TypeScript  |  Flutter</text>
 
-    <text x="28" y="370" fill="#FF6A00" font-size="15" font-weight="700">loai@github</text>
-    <text x="131" y="370" fill="#BDBDBD" font-size="15">:</text>
-    <text x="141" y="370" fill="#FF8A3D" font-size="15" font-weight="700">~$</text>
-    <text x="172" y="370" fill="#D8D8D8" font-size="15">echo "hello, world"</text>
+    <text x="28" y="360" fill="#FF6A00" font-size="14" letter-spacing="1">============================================================================================================</text>
 
-    <text x="28" y="394" fill="#F2B180" font-size="14">hello, world</text>
-    <rect x="125" y="381" width="9" height="16" fill="#FF6A00">
+    <text x="28" y="389" fill="#FF6A00" font-size="15" font-weight="700">loai@github</text>
+    <text x="131" y="389" fill="#BDBDBD" font-size="15">:</text>
+    <text x="141" y="389" fill="#FF8A3D" font-size="15" font-weight="700">~$</text>
+    <text x="172" y="389" fill="#D8D8D8" font-size="15">echo "hello, world"</text>
+
+    <text x="28" y="414" fill="#F2B180" font-size="14">hello, world</text>
+    <rect x="125" y="401" width="9" height="16" fill="#FF6A00">
       <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
     </rect>
   </g>
