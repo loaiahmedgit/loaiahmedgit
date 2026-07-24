@@ -166,10 +166,6 @@ Building mobile, web, AI, and data products from concept through validated imple
 
 [![Google Data Analytics Professional Certificate](https://img.shields.io/badge/Google-Data_Analytics_Professional_Certificate-FF6A00?style=for-the-badge&logo=google&logoColor=white)](https://www.coursera.org/professional-certificates/google-data-analytics)
 
-### Professional Development
-
-[![Agentic AI Conference](https://img.shields.io/badge/Data_Science_Dojo-Agentic_AI_Conference_2026-FF6A00?style=for-the-badge&logo=databricks&logoColor=white)](https://datasciencedojo.com/)
-
 ---
 
 ## Coding Profiles
