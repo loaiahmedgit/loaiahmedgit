@@ -183,21 +183,6 @@ Building mobile, web, AI, and data products from concept through validated imple
 
 ---
 
-## GitHub Analytics
-
-<div align="center">
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loaiahmedgit&theme=github_dark" alt="Loai's GitHub profile summary">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=loaiahmedgit&theme=github_dark" alt="Loai's GitHub statistics">
-<img width="49%" src="https://streak-stats.demolab.com?user=loaiahmedgit&theme=dark&hide_border=true&background=0D1117&ring=FF6A00&fire=FF8A3D&currStreakLabel=FFD0B0" alt="Loai's GitHub contribution streak">
-
-<img width="54%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loaiahmedgit&theme=github_dark" alt="Languages across Loai's public repositories">
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
