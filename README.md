@@ -222,6 +222,12 @@ Building mobile, web, AI, and data products from concept through validated imple
 
 ![Contribution Snake](https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/output/github-contribution-grid-snake-dark.svg)
 
+<br>
+
+<a href="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Animated Pac-Man divider">
+</a>
+
 </div>
 
 ---
