@@ -35,10 +35,6 @@ I approach engineering as a complete product discipline: understand the user pro
 - Product-focused engineering and applied AI opportunities
 - Collaboration on useful, technically ambitious projects
 
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/pacman-cherry-divider.svg" alt="Fast Pac-Man cherry chase">
-</div>
-
 ---
 
 ## Tech Stack
@@ -125,10 +121,6 @@ Maseera is a full-stack social platform built to exercise real application archi
 
 </details>
 
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/pacman-cherry-divider.svg" alt="Fast Pac-Man cherry chase">
-</div>
-
 ---
 
 ## Experience
@@ -177,10 +169,6 @@ Building mobile, web, AI, and data products from concept through validated imple
 ### Professional Development
 
 [![Agentic AI Conference](https://img.shields.io/badge/Data_Science_Dojo-Agentic_AI_Conference_2026-FF6A00?style=for-the-badge&logo=databricks&logoColor=white)](https://datasciencedojo.com/)
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/pacman-cherry-divider.svg" alt="Fast Pac-Man cherry chase">
-</div>
 
 ---
 
@@ -237,10 +225,6 @@ open_to:
   - AI engineering internships in Doha
   - software engineering internships in Doha
 ```
-
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/pacman-cherry-divider.svg" alt="Fast Pac-Man cherry chase">
-</div>
 
 ---
 
