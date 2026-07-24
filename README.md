@@ -199,6 +199,10 @@ Building mobile, web, AI, and data products from concept through validated imple
 
 ![Contribution Snake](https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/gh-pages/github-contribution-grid-snake-orange.svg)
 
+<br>
+
+<img src="https://raw.githubusercontent.com/loaiahmedgit/loaiahmedgit/main/assets/orange-ghost.svg" width="88" alt="Animated orange pixel ghost">
+
 </div>
 
 ---
